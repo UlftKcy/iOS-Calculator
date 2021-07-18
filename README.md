@@ -1,4 +1,4 @@
-# Project: Calculator
+# Project : Calculator
 
 ## Description
 Project aims to create a calculator.
