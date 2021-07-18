@@ -1,4 +1,4 @@
-# Project-003 : Calculator (JS-03)
+# Project: Calculator
 
 ## Description
 Project aims to create a calculator.
